@@ -6,5 +6,5 @@
 
 ![OctopusTR's github stats](https://github-readme-stats.vercel.app/api?username=OctopusTR&show_icons=true&theme=dark)
 
-[![SSH-Brute-Force](https://github-readme-stats.vercel.app/api/pin/?username=OctopusTR&repo=SSH-Brute-Force&theme=dark)](https://github.com/OctopusTR/SSH-Brute-Force)
+[![SSH-Brute-Force-Tool](https://github-readme-stats.vercel.app/api/pin/?username=OctopusTR&repo=SSH-Brute-Force-Tool&theme=dark)](https://github.com/OctopusTR/SSH-Brute-Force-Tool)
 [![Port-Scanner](https://github-readme-stats.vercel.app/api/pin/?username=OctopusTR&repo=Port-Scanner&theme=dark)](https://github.com/OctopusTR/Port-Scanner)
